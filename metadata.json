@@ -1,0 +1,6 @@
+{
+  "name": "Tidewise - Direct Booking & CRM for Tour Operators",
+  "description": "Commission-free booking, smart guide assignment, weather-aware reschedule, and customer CRM for kayak and boat tour operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
